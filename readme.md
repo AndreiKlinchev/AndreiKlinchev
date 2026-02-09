@@ -16,11 +16,12 @@ I am constantly learning, trying to overcome procrastination, and improving my s
 - Algorithms and data structures  
 - Prompt engineering  
 
-## 💻 Programming languages
+## 💻 Programming languages and technololies 
 
 ### 📌 I know
 
-- Python  
+- Python🐍
+- HTML/CSS 
 - JavaScript  
 - C++  
 - Pascal ABC 😄  
