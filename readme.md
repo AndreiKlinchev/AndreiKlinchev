@@ -35,6 +35,7 @@ I am constantly learning, trying to overcome procrastination, and improving my s
 
 ### 📝 Planning to learn
 
+- TypeScript
 - Oracle  
 - Go  
 
