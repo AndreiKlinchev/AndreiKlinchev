@@ -14,14 +14,15 @@ I am constantly learning, trying to overcome procrastination, and improving my s
 
 - Game development  
 - Algorithms and data structures  
-- Prompt engineering  
+- Prompt engineering
+- Gaming
 
-## 💻 Programming languages and technololies 
+## 💻 Programming languages and technololies
 
 ### 📌 I know
 
 - Python🐍
-- HTML/CSS 
+- HTML/CSS
 - JavaScript  
 - C++  
 - Pascal ABC 😄  
