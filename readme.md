@@ -5,33 +5,45 @@ My name is **Andrei Klinchev**, glad to see you in my remote repository!
 ![Here is a photo of my totem beaver](images/avatar.jpg)
 
 ## 👨‍🎓 A little about me
+
 I am a 2nd-year student at **MSU (Moldova State University)**, Faculty of *Informatics and Mathematics*, majoring in *Applied Informatics*.  
 I enjoy exploring and learning new and complex things, coming up with algorithms to solve various problems and optimize solutions.  
 I am constantly learning, trying to overcome procrastination, and improving my skills.
 
 ## 🔍 Areas of interest
+
 - Game development  
 - Algorithms and data structures  
-- Prompt engineering  
+- Prompt engineering
+- Gaming
 
-## 💻 Programming languages
+## 💻 Programming languages and technololies
 
 ### 📌 I know
-- Python  
+
+- Python🐍
+- HTML/CSS
 - JavaScript  
-- C++  
+- C#
 - Pascal ABC 😄  
 
 ### 📚 Currently learning
+
 - Java (Spring)  
-- C#  
-- PostgreSQL  
+- C#
+- Git version control
+- PostgreSQL
 
 ### 📝 Planning to learn
-- Oracle  
+
+- TypeScript
+- Oracle
+- QuadrantDB
+- PHP   
 - Go  
 
 ## 📬 How to reach me
+
 - Email: klinchevstudy@gmail.com  
 - Telegram: [@Coffevarca](https://t.me/Coffevarca)  
 - GitHub: [github.com/AndreiKlinchev](https://github.com/AndreiKlinchev)
