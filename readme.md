@@ -24,19 +24,22 @@ I am constantly learning, trying to overcome procrastination, and improving my s
 - Python🐍
 - HTML/CSS
 - JavaScript  
-- C++  
+- C#
 - Pascal ABC 😄  
 
 ### 📚 Currently learning
 
 - Java (Spring)  
-- C#  
-- PostgreSQL  
+- C#
+- Git version control
+- PostgreSQL
 
 ### 📝 Planning to learn
 
 - TypeScript
-- Oracle  
+- Oracle
+- QuadrantDB
+- PHP   
 - Go  
 
 ## 📬 How to reach me
